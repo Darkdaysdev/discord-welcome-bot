@@ -22,6 +22,10 @@
 
 ---
 
+### NOT: Yakında Guard Botu'da Gelicektir Güzel Star Gelirse...
+
+---
+
 ## Özellikler
 
 - Kayıtsız üye ses kanalına girdiğinde hoşgeldin müziği çalar (döngüsel)
