@@ -4,7 +4,7 @@
 
 
 
-> Botculuğu bıraktım ama piyasadaki sözde “developer” tayfanın yaptığı rezil welcome sistemlerini görünce bunu paylaşasım geldi. Adam Discord.js kurup iki event yazınca kendini yazılımcı sanıyor ama yaptığı welcome sistemi bomboş. Ses yok, müzik yok. Kanalda NPC gibi duran welcome botları.
+> Botculuğu bıraktım ama piyasadaki sözde “developer” tayfanın yaptığı rezil welcome sistemlerini görünce bunu paylaşasım geldi 1 saatte yaptım :D Adam Discord.js kurup iki event yazınca kendini yazılımcı sanıyor ama yaptığı welcome sistemi bomboş. Ses yok, müzik yok. Kanalda NPC gibi duran welcome botları.
 
 
 > Şu piyasada “botcuyum” diye gezenlerin çoğunun sistemi aynı:
