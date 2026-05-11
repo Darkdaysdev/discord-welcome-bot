@@ -139,6 +139,10 @@ discord-welcome-bot/
 
 ---
 
+### Burdan selamlar Noname, Wessel, Capo, Soull dostlarıma 🫡
+
+---
+
 ## Lisans
 
 Bu proje **MIT Lisansı** ile lisanslanmıştır. Detaylar için [LICENSE](./LICENSE) dosyasına bakabilirsiniz.
