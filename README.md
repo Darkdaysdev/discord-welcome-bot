@@ -4,7 +4,7 @@
 
 
 
-> Botculuğu bıraktım ama piyasadaki sözde “developer” tayfanın yaptığı rezil welcome sistemlerini görünce bunu paylaşasım geldi. Adam Discord.js kurup iki event yazınca kendini yazılımcı sanıyor ama yaptığı welcome sistemi bomboş. > > Ses yok, müzik yok. Kanalda NPC gibi duran welcome botları.
+> Botculuğu bıraktım ama piyasadaki sözde “developer” tayfanın yaptığı rezil welcome sistemlerini görünce bunu paylaşasım geldi. Adam Discord.js kurup iki event yazınca kendini yazılımcı sanıyor ama yaptığı welcome sistemi bomboş. Ses yok, müzik yok. Kanalda NPC gibi duran welcome botları.
 
 
 > Şu piyasada “botcuyum” diye gezenlerin çoğunun sistemi aynı:
@@ -12,7 +12,7 @@
 > Yetkili girer yine ses yok.
 > Ama gel gör ki anlatırken NASA projesi gibi anlatırlar.
 
-> Bazıları üyeyi ses kanalına sokup hiçbir tepki vermeyen sistemi premium diye pazarlıyor. Sonra gelip config editleyince developer olduklarını düşünüyorlar. Hazır altyapıya emoji değiştirip “v14 özel sistem” yazınca coder olunmuyor > maalesef.
+> Bazıları üyeyi ses kanalına sokup hiçbir tepki vermeyen sistemi premium diye pazarlıyor. Sonra gelip config editleyince developer olduklarını düşünüyorlar. Hazır altyapıya emoji değiştirip “v14 özel sistem” yazınca coder olunmuyor maalesef.
 
 > Bu botta ise olay gerçekten çalışıyor:
 > Yetkili girince yetkili müziği çalar, kayıtsız girince hoş geldin müziği çalar, yetkili çıkınca sistemi otomatik eski haline döndürür. Ses bağlantısı koparsa kendi toparlar. Çoklu token desteği de mevcut.
