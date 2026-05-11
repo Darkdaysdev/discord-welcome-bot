@@ -139,7 +139,7 @@ discord-welcome-bot/
 
 ---
 
-### Burdan selamlar Noname, Wessel, Capo, Soull dostlarıma 🫡
+### Burdan selamlar Noname, Wessel, Capo, Soull, Jarvenox dostlarıma 🫡
 
 ---
 
