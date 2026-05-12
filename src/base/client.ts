@@ -40,10 +40,6 @@ export class Client extends Discord.Client implements Discord.Client {
                         await guild.members.fetch();
                         await guild.channels.fetch();
                         await guild.roles.fetch();
-                        await guild.emojis.fetch();
-                        await guild.stickers.fetch();
-                        await guild.bans.fetch();
-                        await guild.invites.fetch();
                     },
                     1000 * 60 * 30,
                 );
